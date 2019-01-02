@@ -1,5 +1,3 @@
 theme: jekyll-theme-cayman
 title: Welcome to Krispad's Homepage
-We begin by describing letter frequency histograms in various languages. 
-Currently the focus is on Western European languages; the intention is to develop 
-code to handle Eastern European and some South Asian Languages.
+description: We begin by describing letter frequency histograms in various languages. Currently the focus is on Western European languages; the intention is to develop code to handle Eastern European and some South Asian Languages.
